@@ -1,4 +1,4 @@
-Hello, my name is Feche
+Hello, my name is Feche.
 Here I will be publishing all the crazy things that come up to my head and make them real;
 Readable, optimized and neat coding :]
 You can write me to feche1320@gmail.com
