@@ -6,7 +6,7 @@ Readable, optimized and neat coding :]
 
 You can write me to feche1320@gmail.com
 
-https://feche.ar
+https://feche.ar/
 
 /ES
 
@@ -16,4 +16,4 @@ Codigo legible, prolijo y optimizado :)
 
 Por cualquier duda me pueden escribir a feche1320@gmail.com
 
-feche.ar
+https://feche.ar/
